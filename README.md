@@ -10,8 +10,9 @@ Ritvik:
 Kayden:
 - Game startup screens
 - Game over screen
-- Health bar and score tracking
-- Audio
+- Custom mouse
+- Health and score trackers
+- Sound effects and music 
 
 Both 
 - Presentation
